@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Lehel Cintar",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
